@@ -2,10 +2,11 @@
 import HelloWorld from './components/HelloWorld.vue'
 import TheWelcome from './components/TheWelcome.vue'
 import Product from './components/Product.vue'
+import Menu from './components/Menu.vue'
 </script>
 
 <template>
-    <Product></Product>
+    <Menu></Menu>
 </template>
 
 <style scoped>
